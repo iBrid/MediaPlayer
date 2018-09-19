@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string name="songtextView">Songs</string>
+    <string name="NowPlayingtxtview">Now Playing</string>
+</resources>
